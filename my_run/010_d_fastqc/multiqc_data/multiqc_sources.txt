@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	sample_b1	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/010_d_fastqc/sample_b1_fastqc.zip
+FastQC	all_sections	sample_a3	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/010_d_fastqc/sample_a3_fastqc.zip
+FastQC	all_sections	sample_b4	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/010_d_fastqc/sample_b4_fastqc.zip
+FastQC	all_sections	sample_a4	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/010_d_fastqc/sample_a4_fastqc.zip
+FastQC	all_sections	sample_b3	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/010_d_fastqc/sample_b3_fastqc.zip
+FastQC	all_sections	sample_a1	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/010_d_fastqc/sample_a1_fastqc.zip
+FastQC	all_sections	sample_a2	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/010_d_fastqc/sample_a2_fastqc.zip
+FastQC	all_sections	sample_b2	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/010_d_fastqc/sample_b2_fastqc.zip

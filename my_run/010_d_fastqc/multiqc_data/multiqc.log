@@ -1,0 +1,2 @@
+[2025-05-15 08:12:58,810] multiqc.core.file_search                           [INFO   ]  Search path: /Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/010_d_fastqc
+[2025-05-15 08:12:59,102] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 8 reports
