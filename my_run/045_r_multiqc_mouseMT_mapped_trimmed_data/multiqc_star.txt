@@ -1,0 +1,9 @@
+Sample	total_reads	avg_input_read_length	uniquely_mapped	uniquely_mapped_percent	avg_mapped_read_length	num_splices	num_annotated_splices	num_GTAG_splices	num_GCAG_splices	num_ATAC_splices	num_noncanonical_splices	mismatch_rate	deletion_rate	deletion_length	insertion_rate	insertion_length	multimapped	multimapped_percent	multimapped_toomany	multimapped_toomany_percent	unmapped_mismatches_percent	unmapped_tooshort_percent	unmapped_other_percent	unmapped_mismatches	unmapped_tooshort	unmapped_other	mapped_percent	mapped
+sample_a1	14045.0	78.0	14016.0	99.79	78.48	1.0	0.0	1.0	0.0	0.0	0.0	0.06	0.0	0.0	0.0	0.0	6.0	0.04	0.0	0.0	0.0	0.0	0.16	0	0	23	99.83000000000001	14022.0
+sample_a2	13898.0	78.0	13877.0	99.85	78.55	0.0	0.0	0.0	0.0	0.0	0.0	0.06	0.0	0.0	0.0	0.0	4.0	0.03	0.0	0.0	0.0	0.0	0.12	0	0	17	99.88	13881.0
+sample_a3	14188.0	78.0	14165.0	99.84	78.4	0.0	0.0	0.0	0.0	0.0	0.0	0.06	0.0	0.0	0.0	0.0	6.0	0.04	0.0	0.0	0.0	0.0	0.12	0	0	17	99.88000000000001	14171.0
+sample_a4	8046.0	78.0	6875.0	85.45	78.43	1.0	0.0	1.0	0.0	0.0	0.0	0.07	0.0	0.0	0.0	1.0	3.0	0.04	0.0	0.0	0.0	11.1	3.42	0	893	275	85.49000000000001	6878.0
+sample_b1	13967.0	78.0	13942.0	99.82	78.53	0.0	0.0	0.0	0.0	0.0	0.0	0.06	0.0	0.0	0.0	0.0	7.0	0.05	0.0	0.0	0.0	0.0	0.13	0	0	18	99.86999999999999	13949.0
+sample_b2	13903.0	78.0	13874.0	99.79	78.55	0.0	0.0	0.0	0.0	0.0	0.0	0.06	0.0	0.0	0.0	0.0	5.0	0.04	0.0	0.0	0.0	0.0	0.17	0	0	24	99.83000000000001	13879.0
+sample_b3	14067.0	78.0	14047.0	99.86	78.49	1.0	0.0	1.0	0.0	0.0	0.0	0.06	0.0	0.0	0.0	0.0	6.0	0.04	0.0	0.0	0.0	0.0	0.1	0	0	14	99.9	14053.0
+sample_b4	13936.0	78.0	13902.0	99.76	78.52	0.0	0.0	0.0	0.0	0.0	0.0	0.06	0.0	0.0	0.0	0.0	9.0	0.06	0.0	0.0	0.0	0.0	0.18	0	0	25	99.82000000000001	13911.0

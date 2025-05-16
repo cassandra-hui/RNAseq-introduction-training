@@ -1,0 +1,16 @@
+TrimmomaticSE: Started with arguments:
+ -phred33 fastq_files/sample_a1.fastq 030_d_trim/sample_a1.trimmed.fastq ILLUMINACLIP:/data/DATA/adapters/TruSeq3-PE.fa:2:30:10 SLIDINGWINDOW:3:25
+Automatically using 1 threads
+java.io.FileNotFoundException: /data/DATA/adapters/TruSeq3-PE.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:159)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticSE.run(TrimmomaticSE.java:318)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:85)
+Input Reads: 14069 Surviving: 14045 (99.83%) Dropped: 24 (0.17%)
+TrimmomaticSE: Completed successfully

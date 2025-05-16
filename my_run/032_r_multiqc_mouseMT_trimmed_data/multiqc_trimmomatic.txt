@@ -1,0 +1,9 @@
+Sample	input_reads	surviving	surviving_pct	dropped	dropped_pct
+sample_a1	14069.0	14045.0	99.83	24.0	0.17
+sample_a2	13921.0	13898.0	99.83	23.0	0.17
+sample_a3	14220.0	14188.0	99.77	32.0	0.23
+sample_a4	8199.0	8046.0	98.13	153.0	1.87
+sample_b1	13994.0	13967.0	99.81	27.0	0.19
+sample_b2	13932.0	13903.0	99.79	29.0	0.21
+sample_b3	14095.0	14067.0	99.8	28.0	0.2
+sample_b4	13958.0	13936.0	99.84	22.0	0.16

@@ -1,0 +1,5 @@
+[2025-05-16 08:39:53,246] multiqc.core.update_config                         [INFO   ]  Report title: mapped_trimmed
+[2025-05-16 08:39:53,946] multiqc.core.file_search                           [INFO   ]  Search path: /Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/Salmon_run
+[2025-05-16 08:39:54,711] multiqc.modules.salmon.salmon                      [INFO   ]  Found 8 meta reports
+[2025-05-16 08:39:54,714] multiqc.modules.salmon.salmon                      [INFO   ]  Found 8 fragment length distributions
+[2025-05-16 08:39:54,714] multiqc.modules.salmon.salmon                      [INFO   ]  Found 8 library format counts reports

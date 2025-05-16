@@ -1,0 +1,4 @@
+[2025-05-15 13:59:08,763] multiqc.core.update_config                         [INFO   ]  Report title: trimmed_fastq
+[2025-05-15 13:59:09,393] multiqc.core.file_search                           [INFO   ]  Search path: /Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/030_d_trim
+[2025-05-15 13:59:09,611] multiqc.modules.trimmomatic.trimmomatic            [INFO   ]  Found 8 logs
+[2025-05-15 13:59:10,070] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 8 reports

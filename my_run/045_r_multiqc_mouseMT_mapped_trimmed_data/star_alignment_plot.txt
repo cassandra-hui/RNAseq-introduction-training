@@ -1,0 +1,9 @@
+Sample	Uniquely mapped	Mapped to multiple loci	Unmapped: too short	Unmapped: other
+sample_a1	14016.0	6.0	0.0	23.0
+sample_a2	13877.0	4.0	0.0	17.0
+sample_a3	14165.0	6.0	0.0	17.0
+sample_a4	6875.0	3.0	893.0	275.0
+sample_b1	13942.0	7.0	0.0	18.0
+sample_b2	13874.0	5.0	0.0	24.0
+sample_b3	14047.0	6.0	0.0	14.0
+sample_b4	13902.0	9.0	0.0	25.0

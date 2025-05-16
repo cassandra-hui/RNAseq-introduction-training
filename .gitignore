@@ -4,3 +4,10 @@
 .RData
 .Ruserdata
 *.html
+.DS_Store
+docs/.DS_Store
+my_run/.DS_Store
+docs/assets/.DS_Store
+my_run/041_d_STAR_mouseMT_reference/Log.out
+my_run/ref/GCA_000001635.9_GRCm39_genomic.fna
+my_run/ref/Mus_musculus.GRCm39.114.chr.gtf

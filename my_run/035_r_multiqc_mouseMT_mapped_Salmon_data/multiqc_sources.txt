@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+Salmon	all_sections	033_d_salmon_mouseMT_sample_b1	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/Salmon_run/033_d_salmon_mouseMT_sample_b1/libParams/flenDist.txt
+Salmon	all_sections	033_d_salmon_mouseMT_sample_a1	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/Salmon_run/033_d_salmon_mouseMT_sample_a1/libParams/flenDist.txt
+Salmon	all_sections	033_d_salmon_mouseMT_sample_b2	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/Salmon_run/033_d_salmon_mouseMT_sample_b2/libParams/flenDist.txt
+Salmon	all_sections	033_d_salmon_mouseMT_sample_a3	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/Salmon_run/033_d_salmon_mouseMT_sample_a3/libParams/flenDist.txt
+Salmon	all_sections	033_d_salmon_mouseMT_sample_a4	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/Salmon_run/033_d_salmon_mouseMT_sample_a4/libParams/flenDist.txt
+Salmon	all_sections	033_d_salmon_mouseMT_sample_a2	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/Salmon_run/033_d_salmon_mouseMT_sample_a2/libParams/flenDist.txt
+Salmon	all_sections	033_d_salmon_mouseMT_sample_b4	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/Salmon_run/033_d_salmon_mouseMT_sample_b4/libParams/flenDist.txt
+Salmon	all_sections	033_d_salmon_mouseMT_sample_b3	/Users/cassandrahui/Documents/Training/RNAseq-introduction-training/my_run/Salmon_run/033_d_salmon_mouseMT_sample_b3/libParams/flenDist.txt

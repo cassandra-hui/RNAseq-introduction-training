@@ -1,0 +1,9 @@
+Sample	Overlapping Genes	No Feature	Ambiguous Features	Multimapping	Unmapped
+sample_a1	6990.0	6963.0	63.0	6.0	23.0
+sample_a2	6896.0	6902.0	79.0	4.0	17.0
+sample_a3	7038.0	7053.0	74.0	6.0	17.0
+sample_a4	3469.0	3405.0	1.0	3.0	1168.0
+sample_b1	6950.0	6929.0	63.0	7.0	18.0
+sample_b2	6914.0	6881.0	79.0	5.0	24.0
+sample_b3	6993.0	6968.0	86.0	6.0	14.0
+sample_b4	6920.0	6915.0	67.0	9.0	25.0

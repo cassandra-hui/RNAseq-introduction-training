@@ -1,0 +1,9 @@
+Sample	salmon-percent_mapped	salmon-num_mapped	salmon-library_types	salmon-compatible_fragment_ratio	salmon-strand_mapping_bias
+033_d_salmon_mouseMT_sample_a1	100.0	0.014069	U	100.0	0.49690809581349066
+033_d_salmon_mouseMT_sample_a2	100.0	0.013921	U	100.0	0.4976653976007471
+033_d_salmon_mouseMT_sample_a3	100.0	0.01422	U	100.0	0.4973277074542897
+033_d_salmon_mouseMT_sample_a4	84.15660446395901	0.0069	U	100.0	0.4969565217391304
+033_d_salmon_mouseMT_sample_b1	100.0	0.013994	U	100.0	0.4971416321280549
+033_d_salmon_mouseMT_sample_b2	100.0	0.013932	U	100.0	0.4959086993970715
+033_d_salmon_mouseMT_sample_b3	100.0	0.014095	U	100.0	0.4962752749201845
+033_d_salmon_mouseMT_sample_b4	100.0	0.013958	U	100.0	0.4972059034245594

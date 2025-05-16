@@ -1,0 +1,19 @@
+### STAR   --runMode genomeGenerate      --runThreadN 4   --genomeDir 041_d_STAR_mouseMT_reference   --genomeFastaFiles ref/Mus_musculus.GRCm39.dna.chromosome.MT.fa      --genomeSAindexNbases 5   --sjdbGTFfile ref/Mus_musculus.GRCm39.114.chr.gtf   --sjdbOverhang 99
+### GstrandBit 32
+versionGenome	2.7.4a
+genomeType	Full
+genomeFastaFiles	ref/Mus_musculus.GRCm39.dna.chromosome.MT.fa 
+genomeSAindexNbases	5
+genomeChrBinNbits	18
+genomeSAsparseD	1
+genomeTransformType	None
+genomeTransformVCF	-
+sjdbOverhang	99
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	ref/Mus_musculus.GRCm39.114.chr.gtf
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	262144 134470

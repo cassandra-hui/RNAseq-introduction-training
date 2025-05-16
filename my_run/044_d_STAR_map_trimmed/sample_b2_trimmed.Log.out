@@ -1,0 +1,142 @@
+STAR version=2.7.5a
+STAR compilation time,server,dir=Tue Jun 16 16:47:12 GMT 2020 :/Users/travis/build/alexdobin/travis-tests/STARcompile/source
+##### Command Line:
+STAR --runThreadN 4 --genomeDir 041_d_STAR_mouseMT_reference --outSAMtype BAM SortedByCoordinate --outFileNamePrefix 044_d_STAR_map_trimmed/sample_b2_trimmed. --quantMode GeneCounts --readFilesIn 030_d_trim/sample_b2.trimmed.fastq
+##### Initial USER parameters from Command Line:
+outFileNamePrefix                 044_d_STAR_map_trimmed/sample_b2_trimmed.
+###### All USER parameters from Command Line:
+runThreadN                    4     ~RE-DEFINED
+genomeDir                     041_d_STAR_mouseMT_reference     ~RE-DEFINED
+outSAMtype                    BAM   SortedByCoordinate        ~RE-DEFINED
+outFileNamePrefix             044_d_STAR_map_trimmed/sample_b2_trimmed.     ~RE-DEFINED
+quantMode                     GeneCounts        ~RE-DEFINED
+readFilesIn                   030_d_trim/sample_b2.trimmed.fastq        ~RE-DEFINED
+##### Finished reading parameters from all sources
+
+##### Final user re-defined parameters-----------------:
+runThreadN                        4
+genomeDir                         041_d_STAR_mouseMT_reference
+readFilesIn                       030_d_trim/sample_b2.trimmed.fastq   
+outFileNamePrefix                 044_d_STAR_map_trimmed/sample_b2_trimmed.
+outSAMtype                        BAM   SortedByCoordinate   
+quantMode                         GeneCounts   
+
+-------------------------------
+##### Final effective command line:
+STAR   --runThreadN 4   --genomeDir 041_d_STAR_mouseMT_reference   --readFilesIn 030_d_trim/sample_b2.trimmed.fastq      --outFileNamePrefix 044_d_STAR_map_trimmed/sample_b2_trimmed.   --outSAMtype BAM   SortedByCoordinate      --quantMode GeneCounts   
+----------------------------------------
+
+Number of fastq files for each mate = 1
+WARNING: --limitBAMsortRAM=0, will use genome size as RAM limit for BAM sorting
+Finished loading and checking parameters
+Reading genome generation parameters:
+### STAR   --runMode genomeGenerate      --runThreadN 4   --genomeDir 041_d_STAR_mouseMT_reference   --genomeFastaFiles ref/Mus_musculus.GRCm39.dna.chromosome.MT.fa      --genomeSAindexNbases 5   --sjdbGTFfile ref/Mus_musculus.GRCm39.114.chr.gtf   --sjdbOverhang 99
+### GstrandBit=32
+versionGenome                 2.7.4a     ~RE-DEFINED
+genomeType                    Full     ~RE-DEFINED
+genomeFastaFiles              ref/Mus_musculus.GRCm39.dna.chromosome.MT.fa        ~RE-DEFINED
+genomeSAindexNbases           5     ~RE-DEFINED
+genomeChrBinNbits             18     ~RE-DEFINED
+genomeSAsparseD               1     ~RE-DEFINED
+genomeTransformType           None     ~RE-DEFINED
+genomeTransformVCF            -     ~RE-DEFINED
+sjdbOverhang                  99     ~RE-DEFINED
+sjdbFileChrStartEnd           -        ~RE-DEFINED
+sjdbGTFfile                   ref/Mus_musculus.GRCm39.114.chr.gtf     ~RE-DEFINED
+sjdbGTFchrPrefix              -     ~RE-DEFINED
+sjdbGTFfeatureExon            exon     ~RE-DEFINED
+sjdbGTFtagExonParentTranscripttranscript_id     ~RE-DEFINED
+sjdbGTFtagExonParentGene      gene_id     ~RE-DEFINED
+sjdbInsertSave                Basic     ~RE-DEFINED
+genomeFileSizes               262144   134470        ~RE-DEFINED
+Genome version is compatible with current STAR
+Number of real (reference) chromosomes= 1
+1	MT	16299	0
+--sjdbOverhang = 99 taken from the generated genome
+Started loading the genome: Fri May 16 08:20:59 2025
+
+Genome: size given as a parameter = 262144
+SA: size given as a parameter = 134470
+SAindex: size given as a parameter = 1
+Read from SAindex: pGe.gSAindexNbases=5  nSAi=1364
+nGenome=262144;  nSAbyte=134470
+GstrandBit=32   SA number of indices=32598
+Shared memory is not used for genomes. Allocated a private copy of the genome.
+Genome file size: 262144 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 262144 bytes
+SA file size: 134470 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 134470 bytes
+Loading SAindex ... done: 6027 bytes
+Finished loading the genome: Fri May 16 08:20:59 2025
+
+Sum of all Genome bytes: 1251270
+Sum of all SA bytes: 9882236
+Sum of all SAi bytes: 321946
+alignIntronMax=alignMatesGapMax=0, the max intron size will be approximately determined by (2^winBinNbits)*winAnchorDistNbins=589824
+Created thread # 1
+Created thread # 2
+Created thread # 3
+Thread #1 end of input stream, nextChar=-1
+Completed: thread #2
+Completed: thread #2
+Completed: thread #0
+Completed: thread #2
+Completed: thread #0
+Completed: thread #3
+BAM sorting: 13885 mapped reads
+BAM sorting bins genomic start loci:
+1	0	3229
+2	0	5713
+3	0	7067
+4	0	7115
+5	0	7161
+6	0	7204
+7	0	7253
+8	0	7300
+9	0	7347
+10	0	7399
+11	0	7453
+12	0	7496
+13	0	7543
+14	0	7592
+15	0	7968
+16	0	8014
+17	0	8062
+18	0	8104
+19	0	8148
+20	0	8189
+21	0	8234
+22	0	8273
+23	0	8312
+24	0	8354
+25	0	8399
+26	0	8439
+27	0	8480
+28	0	8933
+29	0	10231
+30	0	10296
+31	0	10353
+32	0	10413
+33	0	10475
+34	0	10540
+35	0	10600
+36	0	10654
+37	0	10712
+38	0	10777
+39	0	10842
+40	0	10902
+41	0	10968
+42	0	11038
+43	0	11093
+44	0	11158
+45	0	11217
+46	0	11279
+47	0	11339
+48	0	11396
+Completed: thread #1
+Joined thread # 1
+Joined thread # 2
+Joined thread # 3
+May 16 08:20:59 ..... started sorting BAM
+Max memory needed for sorting = 73168
+ALL DONE!

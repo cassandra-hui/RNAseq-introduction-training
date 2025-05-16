@@ -1,0 +1,12 @@
+{
+    "salmon_version": "1.10.3",
+    "index": "MusMT_index",
+    "libType": "A",
+    "unmatedReads": "fastq_files/sample_a1.fastq",
+    "threads": "4",
+    "validateMappings": [],
+    "gcBias": [],
+    "seqBias": [],
+    "output": "033_d_salmon_mouseMT_sample_a1",
+    "auxDir": "aux_info"
+}
