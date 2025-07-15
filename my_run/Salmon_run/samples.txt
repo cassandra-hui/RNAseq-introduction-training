@@ -1,0 +1,9 @@
+sample  run
+sample_a1   ex
+sample_a2   ex
+sample_a3   ex
+sample_a4   ex
+sample_b1   ex
+sample_b2   ex
+sample_b3   ex
+sample_b4   ex
